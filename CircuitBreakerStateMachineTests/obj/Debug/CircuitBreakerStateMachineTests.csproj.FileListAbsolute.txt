@@ -1,0 +1,13 @@
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\obj\Debug\CircuitBreakerStateMachineTests.csprojResolveAssemblyReference.cache
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\CircuitBreakerStateMachineTests.dll
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\CircuitBreakerStateMachineTests.pdb
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\Castle.Core.dll
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\DesignPattern.CircuitBreakerStateMachine.exe
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\Moq.dll
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\DesignPattern.CircuitBreakerStateMachine.pdb
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\Castle.Core.xml
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\Moq.xml
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\obj\Debug\CircuitBreakerStateMachineTests.dll
+C:\Users\sudarshan\Source\Workspaces\Leetcode\CircuitBreakerStateMachine\CircuitBreakerStateMachineTests\obj\Debug\CircuitBreakerStateMachineTests.pdb
